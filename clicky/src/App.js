@@ -7,7 +7,9 @@ import friends from "./friends.json";
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    friends,
+    score = 0,
+    highscore = 0
   };
 
   // Code out a shuffle function
