@@ -45,3 +45,11 @@
 .card > .remove:hover {
   color: #d50000;
 }
+
+.img-container {
+  background: rgba(28, 176, 187, 0.5);
+  margin: 5px;
+}
+
+
+

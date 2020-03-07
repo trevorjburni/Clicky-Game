@@ -4,12 +4,9 @@ import "./style.css";
 // Need to add onClick ability to the card
 function FriendCard(props) {
   return (
-    <div className="card" onClick={() => props.cardClicked(props.id)}>
-      <div className="img-container">
+      <div className="img-container" onClick={() => props.cardClicked(props.id)}>
           <img alt={props.name} src={props.image} />
       </div>
-      
-    </div>
   );
 }
 
