@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import Nav from "./components/Nav";
 import friends from "./friends.json";
 
 class App extends Component {
@@ -47,9 +47,13 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
-      <Wrapper>
-        <Title>Clicky Game</Title>
-        {this.state.friends.map(friend => (
+      <div>
+        <Nav
+          score={this.state.score}
+          highscore={this.state.highscore}
+        />
+        <Wrapper>
+          {this.state.friends.map(friend => (
           <FriendCard
             cardClicked={this.cardClicked}
             id={friend.id}
@@ -57,8 +61,9 @@ class App extends Component {
             name={friend.name}
             image={friend.image}
           />
-        ))}
-      </Wrapper>
+          ))}
+        </Wrapper>
+      </div>
     );
   }
 }
