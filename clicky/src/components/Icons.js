@@ -1,0 +1,12 @@
+exports.mario = require("../assets/images/mario.png");
+exports.luigi = require("../assets/images/luigi.png");
+exports.bowser = require("../assets/images/bowser.png");
+exports.princessPeach = require("../assets/images/princess-peach.png");
+exports.toad = require("../assets/images/toad.png");
+exports.yoshi = require("../assets/images/yoshi.png");
+exports.wario = require("../assets/images/wario.png");
+exports.link = require("../assets/images/link.png");
+exports.kirby = require("../assets/images/kirby.png");
+exports.fox = require("../assets/images/fox-mccloud.png");
+exports.donkeyKong = require("../assets/images/donkey-kong.png");
+exports.diddyKong = require("../assets/images/diddy-kong.png");
