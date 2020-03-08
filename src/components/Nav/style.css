@@ -1,0 +1,14 @@
+.navbar {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: whitesmoke;
+  background-color: rgb(28, 176, 187);
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.navbar-text {
+  font-size: 2rem;
+  color: whitesmoke;
+}
