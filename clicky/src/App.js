@@ -3,7 +3,7 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Nav from "./components/Nav";
 import friends from "./friends.json";
-import Modal from "./components/Modal";
+// import Modal from "./components/Modal";
 import Icons from "./components/Icons";
 
 // declare a global clickArr
@@ -86,11 +86,6 @@ class App extends Component {
         <Nav
           score={this.state.score}
           highscore={this.state.highscore}
-        />
-        <Modal 
-          show={this.state.show}
-          handleClose={this.handleClose}
-          message={this.state.message}
         />
         <Wrapper>
           {this.state.friends.map(friend => (
