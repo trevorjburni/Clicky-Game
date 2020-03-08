@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.8969f1dd.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.e54ab8f2.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.e54ab8f2.chunk.js.map",
+    "runtime-main.js": "/Clicky-Game/static/js/runtime-main.13911d42.js",
+    "runtime-main.js.map": "/Clicky-Game/static/js/runtime-main.13911d42.js.map",
+    "static/js/2.304efbbf.chunk.js": "/Clicky-Game/static/js/2.304efbbf.chunk.js",
+    "static/js/2.304efbbf.chunk.js.map": "/Clicky-Game/static/js/2.304efbbf.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.48a0e393b328e5bbac632cad906432dd.js": "/Clicky-Game/precache-manifest.48a0e393b328e5bbac632cad906432dd.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.8969f1dd.chunk.css.map": "/Clicky-Game/static/css/main.8969f1dd.chunk.css.map",
+    "static/js/2.304efbbf.chunk.js.LICENSE.txt": "/Clicky-Game/static/js/2.304efbbf.chunk.js.LICENSE.txt",
+    "static/media/bowser.png": "/Clicky-Game/static/media/bowser.86d3bb82.png",
+    "static/media/diddy-kong.png": "/Clicky-Game/static/media/diddy-kong.a571efdd.png",
+    "static/media/donkey-kong.png": "/Clicky-Game/static/media/donkey-kong.bb270da2.png",
+    "static/media/fox-mccloud.png": "/Clicky-Game/static/media/fox-mccloud.b7f270fe.png",
+    "static/media/kirby.png": "/Clicky-Game/static/media/kirby.93952955.png",
+    "static/media/link.png": "/Clicky-Game/static/media/link.321ca555.png",
+    "static/media/luigi.png": "/Clicky-Game/static/media/luigi.7d1565d3.png",
+    "static/media/mario.png": "/Clicky-Game/static/media/mario.c8ae1643.png",
+    "static/media/princess-peach.png": "/Clicky-Game/static/media/princess-peach.109088f0.png",
+    "static/media/style.css": "/Clicky-Game/static/media/super-smash.a61afa2e.png",
+    "static/media/toad.png": "/Clicky-Game/static/media/toad.a27d5953.png",
+    "static/media/wario.png": "/Clicky-Game/static/media/wario.5f6bda24.png",
+    "static/media/yoshi.png": "/Clicky-Game/static/media/yoshi.704f6fa2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13911d42.js",
+    "static/js/2.304efbbf.chunk.js",
+    "static/css/main.8969f1dd.chunk.css",
+    "static/js/main.e54ab8f2.chunk.js"
+  ]
+}
