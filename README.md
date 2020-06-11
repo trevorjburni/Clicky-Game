@@ -11,4 +11,5 @@ Deployed to GitHub Pages at this link https://trevorjburni.github.io/Clicky-Game
 - JavaScript
 - Node
 - React
+- Twitter Bootstrap
 
